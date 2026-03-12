@@ -6,3 +6,18 @@
   font-weight: 600;
   font-style: normal;
 }
+
+img {
+  width: 650px;
+  height: 400px;
+  margin-bottom: 20px;
+}
+
+ul {
+  text-align: center;
+
+}
+
+li {
+  text-align: center;
+}
